@@ -1,2 +1,2 @@
 # TAREA1
-División Lógica de un Disco Duro
+¿Como se divide logicamente un disco duro?
